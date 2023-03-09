@@ -1,0 +1,32 @@
+.container {
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  background-color: aqua;
+  margin-left: 33%;
+}
+
+#count {
+  color: black;
+  font-size: large;
+  font-weight: 800;
+}
+span {
+  color: darkblue;
+}
+#error {
+  color: red;
+}
+.hidden {
+  display: none;
+}
+button {
+  width: 100px;
+  padding: 5px;
+  font-size: 15px;
+}
+button:hover {
+  background-color: rgb(233, 212, 216);
+  outline: none;
+  border: none;
+}
